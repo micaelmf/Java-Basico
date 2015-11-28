@@ -1,1 +1,1 @@
-Para guardar material de estudo relaciondo a linguagem Java.
+Para guardar materiais de estudo relaciondos a linguagem Java.
